@@ -59,3 +59,7 @@ footer.page-footer {
 .no-text-decoration {
 	text-decoration: none;
 }
+
+.dark-parallax-img {
+	filter: brightness(60%);
+}
