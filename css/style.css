@@ -63,3 +63,9 @@ footer.page-footer {
 .dark-parallax-img {
 	filter: brightness(60%);
 }
+
+.profile-pic {
+	height: auto;
+	width: auto;
+	border-radius: 50%;
+}
