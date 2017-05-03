@@ -204,6 +204,12 @@ footer.page-footer {
 
 #panel-back-1 {
 	background: url(../images/background1.jpg);
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+}
+
+#panel-1 {
+	background-color: rgba(0,0,0,0.27);
 }
 
 
