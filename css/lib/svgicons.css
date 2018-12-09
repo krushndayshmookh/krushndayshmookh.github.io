@@ -1,0 +1,24 @@
+/* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+  width: 24px;
+  height: 24px;
+  transition: transform 0.5s ease-out;
+}
+
+.svg-icon:hover {
+  transform: rotate(360deg);
+}
+
+.svg-icon path,
+.svg-icon polygon,
+.svg-icon rect {
+  fill: currentColor;
+}
+
+.svg-icon circle {
+  stroke: currentColor;
+  stroke-width: 1;
+}
