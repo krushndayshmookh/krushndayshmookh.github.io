@@ -1,6 +1,6 @@
 $(document).ready(function () {
 	M.AutoInit();
-
+/*
 	$("#visiting-card").tilt({
 		maxTilt: 9,
 		perspective: 1000, // Transform perspective, the lower the more extreme the tilt gets.
@@ -13,7 +13,7 @@ $(document).ready(function () {
 		glare: false, // Enables glare effect
 		maxGlare: 1 // From 0 - 1.
 	});
-
+*/
 	var particleConfig = {
 		"particles": {
 			"number": {
