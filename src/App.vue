@@ -4,7 +4,7 @@
       <div class="col s12 m8 push-m2 l6 push-l3">
         <div class="card z-depth-5 rounded" id="visiting-card">
           <div class="card-image">
-            <img class="materialboxed" src="/images/IMG_0831.JPG" alt="" />
+            <img class="materialboxed" src="/images/me-3.jpg" alt="" />
           </div>
 
           <div class="card-content">
