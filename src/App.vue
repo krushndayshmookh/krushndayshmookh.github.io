@@ -6,6 +6,7 @@
           <div class="card-image">
             <img class="materialboxed" src="images/IMG_0831.JPG" alt="" />
           </div>
+
           <div class="card-content">
             <span class="center card-title blue-text text-accent-2">
               Krushn Dayshmookh

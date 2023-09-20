@@ -1,3 +1,7 @@
 @import './materialize.min.css';
 @import './base.css';
 @import './svgicons.css';
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
